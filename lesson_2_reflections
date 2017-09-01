@@ -1,0 +1,8 @@
+
+¿Qué sucede cuando se inicializa un repositorio? ¿Por qué necesita hacerlo?
+se crea un archivo  para almacenar los cambios logico y tener en control en la carpeta.
+
+¿En qué se diferencia el área de puesta en escena del directorio de trabajo y del repositorio? ¿Qué valor cree que ofrece?
+
+en que una es temporal en la carpeta y la otrase sube al repositorio.
+
