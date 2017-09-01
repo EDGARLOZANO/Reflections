@@ -1,0 +1,26 @@
+¿Cómo pudo ver una diferencia entre dos versiones de un archivo el error que se introdujo?
+Con el comando diff pude observar que estaba mal diferente en los archivos eh indentificar los errores.
+
+¿Cómo podría tener un fácil acceso a toda la historia de un archivo que sea un programador más eficiente a largo plazo?
+
+utlizando diferentes herramientas que te permiten guardar versiones e indicarte la fecha de las versiones.
+
+¿Qué crees que son los pros y los contras de elegir manualmente cuándo crear un commit, como lo hace en Git, vs tener versiones guardadas automáticamente, como lo hace Google Docs?
+
+pues los pro son que puedes elegir cuando guardad esa version si tienes cambios significativos y tener mejor controlo sobre los cambios que tuvo cada version, los contras es que tu tienes que hacerlo, no se guardan automaticamente.
+
+¿Por qué cree que algunos sistemas de control de versiones, como Git, permiten guardar varios archivos en un commit, mientras que otros, como Google Docs, tratan cada archivo por separado?
+
+para mantener con integridad lo s cambios ya que si si se guardad por seperado podriar perderse codigo o concruencia con que se esta haciendo.
+
+¿Cómo se pueden utilizar los comandos git log y git diff para ver el historial de archivos?
+se pueden utlizar de manera muy util ya que ves todo lo que ha modificado en cada commit y ademas puedes compararlos.
+
+¿Cómo podría utilizar el control de versiones que te haga más confiado para realizar cambios que podrían romper algo?
+
+es muy efectivo ya que si existe algun error puede recuperar los cambios de los archivos.
+
+¿Cómo quieres usar Git?
+
+quiero usarlo como herramientas para todos mis proyectos.
+
