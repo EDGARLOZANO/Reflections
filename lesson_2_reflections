@@ -3,6 +3,26 @@
 se crea un archivo  para almacenar los cambios logico y tener en control en la carpeta.
 
 ¿En qué se diferencia el área de puesta en escena del directorio de trabajo y del repositorio? ¿Qué valor cree que ofrece?
-
 en que una es temporal en la carpeta y la otrase sube al repositorio.
+
+¿Cómo se puede utilizar el área de preparación para asegurarse de que tiene un commit por cambio lógico?
+se puede utilizar agregando cada cambio.
+
+¿Cuáles son algunas situaciones en las que las sucursales serían útiles para mantener su historia organizada? ¿Cómo ayudarían las ramas?
+en las que quieres hacer otras versiones sin afectar al version princinpal, pueden ayudar a evitaer errores en progrmas principales.
+
+¿Cómo ayudan los diagramas a visualizar la estructura de la rama?
+Para saber como esta el proyecto y las diferentes versiones que se pueden generar atravez de la rama principal.
+
+¿Cuál es el resultado de fusionar dos ramas entre sí? ¿Por qué lo representamos en el diagrama de la manera que lo hacemos?
+
+el resultado es combinar las nuevas funciones de cada rama mantiendo en funcionamineto correcto, lo repsentamos asi por que se unen los dos archivos.
+
+¿Cuáles son los pros y los contras de la fusión automática de Git vs siempre haciendo fusiones manualmente?
+es mas facil integrar el codigo solo los cambios, los contras es que puede haber conflictos.
+
+
+
+
+
 
