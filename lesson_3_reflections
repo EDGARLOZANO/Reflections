@@ -1,2 +1,16 @@
 ¿Cuándo desea usar un repositorio remoto en lugar de mantener todo su trabajo local?
 cuando se y trabaja en equipos en solo sistema.
+
+¿Por qué es posible que desee realizar siempre los cambios manualmente en lugar de que Git se mantenga actualizado automáticamente con su repositorio remoto?
+para controloar todos los cambios en los archivos.
+
+Describa las diferencias entre horquillas, clones y ramas. ¿Cuándo usarías uno en lugar de otro?
+Fork es para copiar un repocitorio a otro en github, clones es para clonar en tu maquina local y ramas es para versiones diferentes.
+
+¿Cuál es el beneficio de tener una copia del último estado conocido del control remoto almacenado localmente?
+
+tener el control de los cambios que hacen en la rama principal.
+
+
+¿Cómo colaborarías sin usar Git o GitHub? ¿Qué sería más fácil, y qué sería más difícil?
+compastiendo archivos pero seria complicado.
